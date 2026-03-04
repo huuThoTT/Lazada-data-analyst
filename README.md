@@ -60,7 +60,7 @@ DATASCIENCEPROJECT/
 ## Cách chạy project
 1. Clone repository:
    ```bash
-   git clone https://github.com/s2yuuki2s/DataScienceProject.git
+   git clone https://github.com/huuThoTT/Lazada-data-analyst.git
    cd DataScienceProject
 
 2. Cài đặt môi trường:
